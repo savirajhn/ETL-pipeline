@@ -60,4 +60,4 @@ Untuk memastikan semua bagian berjalan dengan baik dan mendapatkan laporan cover
 
 ### Hasil Output
 Hasil akhir dari proses ETL akan dikirimkan ke Google Sheets yang sudah terhubung melalui credential API. Pastikan sudah mengatur URL dan ID Sheet dengan benar di dalam kode. Data bisa dilihat pada link ini :
-[Google Sheet](https://docs.google.com/spreadsheets/d/1S4S_eH_7HNQ-Su2evTFauJYBA1KnZoSgL6Ii_yqPym8/edit?gid=0#gid=0)
+https://docs.google.com/spreadsheets/d/1S4S_eH_7HNQ-Su2evTFauJYBA1KnZoSgL6Ii_yqPym8/edit?gid=0#gid=0
