@@ -10,9 +10,9 @@ Proyek ini mengimplementasikan pipeline **ETL (Extract, Transform, Load)** mengg
     │ ├── test_transform.py
     │ ├── test_load.py
     ├── utils
-    │ ├── utils-extract.py
-    │ ├── utils-transform.py
-    │ ├── utils-load.py
+    │ ├── utils_extract.py
+    │ ├── utils_transform.py
+    │ ├── utils_load.py
     ├── main.py
     ├── requirements.txt
     ├── README.md
