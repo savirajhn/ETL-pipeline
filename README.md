@@ -1,4 +1,4 @@
-# ETL Pipeline: Extract, Transform, Load ke Google Sheets
+# ETL Pipeline Sederhana
 
 Proyek ini mengimplementasikan pipeline **ETL (Extract, Transform, Load)** menggunakan Python. Data diekstraksi dari sumber tertentu, diproses (transformasi), lalu diunggah ke Google Sheets menggunakan Google Sheets API.
 
@@ -34,8 +34,8 @@ Proyek ini mengimplementasikan pipeline **ETL (Extract, Transform, Load)** mengg
 Setelah repo tersedia, jalankan di Google Colab:
 
 ```python
-!git clone https://github.com/Mirandasigalingging/ETL.git /content/ETL
-%cd /content/ETL
+!git clone https://github.com/savirajhn/ETL-pipeline /content/ETL-pipeline
+%cd /content/ETL-pipeline
 ```
 ### 2. Menginstall Dependencies
 ```python
