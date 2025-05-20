@@ -13,7 +13,7 @@ def main():
     print("Data berhasil ditransformasi. Kolom:", df.columns.tolist())
     print("Contoh data:\n", df.head())
     save_to_csv(df)
-    save_to_google_sheets(df, json_keyfile='projectetl-460308-e98a6a1bcc21.json')
+    save_to_google_sheets(df, json_keyfile='projectetl-460308-9a52e562abb8.json')
 
 if __name__ == "__main__":
     main()
