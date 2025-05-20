@@ -17,6 +17,7 @@ Proyek ini mengimplementasikan pipeline **ETL (Extract, Transform, Load)** mengg
     ├── requirements.txt
     ├── README.md
     ├── google-sheets-api.json
+    ├── submission.txt
 
 
 - `tests/` : Berisi unit test untuk masing-masing fungsi ETL.
@@ -25,7 +26,7 @@ Proyek ini mengimplementasikan pipeline **ETL (Extract, Transform, Load)** mengg
 - `requirements.txt` : Daftar dependensi Python yang dibutuhkan.
 - `google-sheets-api.json` : File credential untuk autentikasi dengan Google Sheets API.
 - `README.md` : Dokumen ini yang berisi penjelasan lengkap tentang proyek, struktur file, cara instalasi, dan cara menjalankan kode.
-  
+- `submission.txt` :Cara menjalankan script ETL Pipeline, Cara menjalankan Unit Test, Cara menjalankan Test Coverage, URL Google Sheets 
 ---
 
 ## Langkah-Langkah Penggunaan
