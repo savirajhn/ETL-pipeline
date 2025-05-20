@@ -1,6 +1,11 @@
 from utils.utils_extract import fetch_products
 from utils.utils_transform import transform
 from utils.utils_load import save_to_csv, save_to_google_sheets
+from google.oauth2.service_account import Credentials
+import gspread
+
+creds = Credentials.from_service_account_file("service_account.json")
+client = gspread.authorize(creds)
 
 def main():
     raw_data = fetch_products(pages=50)
